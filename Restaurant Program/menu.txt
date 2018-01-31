@@ -1,0 +1,40 @@
+001
+Soft Drink
+2.99
+0
+002
+Iced Tea
+3.59
+0
+003
+Milkshake
+4.09
+0
+004
+Coffee
+2.29
+0
+005
+Seasoned Fries
+4.19
+1
+006
+Mashed Potatoes
+5.20
+1
+007
+Mixed Vegetables
+4.15
+1
+008
+Sweet Potato Fries
+4.75
+1
+009
+Mac & Cheese
+3.25
+1
+010
+Spaghetti & Meatballs
+6.90
+2
